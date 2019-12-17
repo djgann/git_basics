@@ -1,2 +1,4 @@
-more changes
+more changesD
 by adding text simultaneously to the same document
+let's create a conflict
+>>>>>>> 2e03fbc2ab81329804c7fc83bb70b3bcbe3bf2b4
